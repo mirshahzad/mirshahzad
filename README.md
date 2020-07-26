@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Don't find me at Instagram or Snapchat, I'm not there! 😄
 
 
-👔 [LinkedIn][linkedin]
-   [Facebook][facebook] **|**
+👔 [LinkedIn][linkedin] **|**
+   [Facebook][facebook] 
 
 [linkedin]: https://www.linkedin.com/in/mirshahzad/
 [facebook]: https://www.facebook.com/mirshahzad007
