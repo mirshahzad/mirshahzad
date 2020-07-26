@@ -13,3 +13,4 @@
 👔 [linkedin][linkedin]
 
 [linkedin]: https://linkedin.com/in/mirshahzad
+[npm]: https://npmjs.com/~mirshahzad
