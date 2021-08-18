@@ -14,4 +14,5 @@
    [Facebook][facebook] 
 
 [linkedin]: https://www.linkedin.com/in/mirshahzad/
+[twitter]: https://twitter.com/mirshahzadahmed
 [facebook]: https://www.facebook.com/mirshahzad007
