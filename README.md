@@ -11,7 +11,7 @@
 
 
 👔 [LinkedIn][linkedin] **|**
-   [Twitter][twitter]
+   [Twitter][twitter] **|**
    [Facebook][facebook] 
 
 [linkedin]: https://www.linkedin.com/in/mirshahzad/
