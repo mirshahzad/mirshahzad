@@ -1,8 +1,8 @@
 ### Hi, I'm Shahzad! 
 
-## An Information Security Specialist with more than two years of professional experience
-## A Researcher with multiple research projects experience with different professors, and 
-## A Writer 👋
+# An Information Security Specialist with more than three years of mix research and industry experience
+# A Researcher with multiple research projects experience with different professors, and 
+# A Writer 👋
 
 - 🔭 I am available to a vigilant team and a supportive organization where I can grow and utilize my expertise, and contribute to the tech community as well as to the planet. 
 - 🌱 I am open to work in junior-level positions (Analyst, Engineer, Researcher, Administrator) related to information security/cyber security domain on remote basis.
